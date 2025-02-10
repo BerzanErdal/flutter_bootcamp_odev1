@@ -8,5 +8,6 @@ This project provides an interface that allows users to switch between Turkish a
 
 Kullanıcı Dostu Arayüz / User-Friendly Interface: Kolay kullanım için tasarlanmış arayüz.
 
-![Screenshot_1738500066](https://github.com/user-attachments/assets/16bec394-eaf1-4c02-87c1-94a689ce27fc)
+![image](https://github.com/user-attachments/assets/ebf47dce-087c-4e71-ad7c-46aa5da7bfd1)
+
 
