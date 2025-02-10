@@ -1,16 +1,11 @@
-# tasarimvpn
+🌟 Proje Hakkında / About the Project
+Bu proje, kullanıcıların Türkçe ve İngilizce dilleri arasında geçiş yapabileceği bir arayüz sunar. Proje, her iki dilde de kullanıcı dostu bir deneyim sağlamayı amaçlamaktadır.
 
-A new Flutter project.
+This project provides an interface that allows users to switch between Turkish and English languages. The project aims to deliver a user-friendly experience in both languages.
 
-## Getting Started
+🚀 Özellikler / Features
+Çift Dil Desteği / Dual Language Support: Türkçe ve İngilizce dil seçenekleri.
 
-This project is a starting point for a Flutter application.
+Kullanıcı Dostu Arayüz / User-Friendly Interface: Kolay kullanım için tasarlanmış arayüz.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
